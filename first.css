@@ -1,0 +1,115 @@
+#header{
+    height:60px;
+    width: 100%;
+    border: 2px solid red;
+    background-color:rgb(131, 134, 130)
+    
+}
+#icon{
+    height:35px;
+    width:30%;
+    color: orange;
+    margin-left:2%;
+    margin-top: -1%;
+    float: left;
+}
+#social{
+    float: right;
+}
+.slogo{
+    height:40px;
+    width:30px;
+    margin-top:10%;
+    margin-right: 10px;
+
+
+}
+.heading{
+    text-align: center;
+    font-size:30px;
+    font-weight:bold;
+}
+#content{
+    height:800px;
+    width:80%;
+    margin-left: 10%;
+    
+}
+#filterdiv{
+    height:600px;
+    width:20%;
+    border: 2px solid rgb(49, 15, 197);
+    float:left;
+}
+#contentdiv{
+    height:750px;
+    width: 70%;
+    float:right;
+    margin-right: 2%;
+    
+}
+.tile-container{
+    height:200px;
+    width:75%;
+    box-shadow: 15px 20px 10px gray;
+    margin-top: 4%;
+    margin-left: 2%;
+    animation: dance 10s infinite;
+}
+.tilecomponent1{
+    height:200px;
+    width:40%;
+    background-color: red;
+    float:left;
+}
+.tilecomponent1 >img{
+    height: 200px;
+    width: 100%;   
+}
+
+.tilecomponent2{
+    height:200;
+    width:48%;
+    background-color:rgb(226, 213, 238);
+    float:left;
+}
+.componentheading{
+    font-size:30px;
+    color:orange;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+.componentsubheading{
+    font-size: 20px;
+    color:gray;
+    margin-top:2%;
+    margin-left: 20%;
+}
+.subicon{
+    font-size:  25px;
+    color:white;
+    margin-top:20%;
+    margin-left: 6%;
+    
+}
+#footer{
+    height:120px;
+    width:100%;
+    border: 2px solid red;
+    background-color: rgba(255, 68, 0, 0.836);
+}
+#foottext{
+    text-align:center;
+    font-size:bold;
+    color:white;
+}
+.footdiv{
+    height:60px;
+    width:30%;
+    float:left;
+    border-right: 2px solid black;
+    margin-left:2%
+}
+.footdivnoborder{
+    border:none
+}
